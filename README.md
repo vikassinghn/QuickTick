@@ -63,8 +63,8 @@ npm run dev
 ---
 ## Deployment
 
-1. Deploy backend on **Render/Heroku/Vercel**
-2. Deploy frontend on **Vercel/Netlify**
+1. Deploy backend on **Vercel**
+2. Deploy frontend on **Netlify**
 3. Use **MongoDB Atlas** for cloud database
 
 ---
@@ -77,9 +77,3 @@ npm run dev
 ## License
 
 This project is licensed under the MIT License.
-
----
-## Demo
-
-- Live Application
-- Demo Video
