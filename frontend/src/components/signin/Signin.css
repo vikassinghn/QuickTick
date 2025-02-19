@@ -1,0 +1,27 @@
+.signin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #f8f9fa;
+  }
+  
+  .signin .container {
+    max-width: 800px;
+  }
+  
+  .shadow-lg {
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1) !important;
+  }
+  
+  .bg-dark {
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+  }
+  
+  @media (max-width: 768px) {
+    .bg-dark {
+      border-radius: 15px 15px 0 0;
+    }
+  }
+  

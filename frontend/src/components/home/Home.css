@@ -1,0 +1,36 @@
+.home {
+    background: linear-gradient(to right, #f8f9fa, #e9ecef);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 90px; /* Push content below the navbar */
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 600px;
+  }
+  
+  h1 {
+    color: #343a40;
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  p {
+    font-size: 1.2rem;
+    color: #6c757d;
+  }
+  
+  .btn-dark {
+    transition: all 0.3s ease-in-out;
+    font-size: 1.1rem;
+    padding: 10px 20px;
+  }
+  
+  .btn-dark:hover {
+    background-color: #212529;
+    transform: scale(1.05);
+  }
+  
