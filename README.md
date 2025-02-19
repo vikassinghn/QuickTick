@@ -64,7 +64,11 @@ npm run dev
 ## Deployment
 
 1. Deploy backend on **Vercel**
+<<<<<<< HEAD
 2. Deploy frontend on **Netlify**
+=======
+2. Deploy frontend on **Vercel**
+>>>>>>> 38d7be66cf5fa05c55bbaf0ff5715cf52f99c7a9
 3. Use **MongoDB Atlas** for cloud database
 
 ---
